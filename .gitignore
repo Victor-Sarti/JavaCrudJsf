@@ -1,0 +1,19 @@
+# Eclipse
+.metadata/
+Servers2/
+bin/
+*.tmp
+*.bak
+*.swp
+
+# Tomcat
+apache-tomcat-*/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+# IDE
+*.iml
